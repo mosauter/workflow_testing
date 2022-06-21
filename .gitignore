@@ -1,0 +1,12 @@
+htmlcov
+.coverage*
+coverage.xml
+junit-report.xml
+xunit-reports/
+.pytest_cache
+
+pylint.report
+.mypy_cache
+
+.venv
+dist
