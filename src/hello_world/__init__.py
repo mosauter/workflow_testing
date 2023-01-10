@@ -1,6 +1,6 @@
-def hello_world() -> None:
-    print("Hello World!")
+def hello_world() -> str:
+    return "Hello World!"
 
 
 if __name__ == "__main__":
-    hello_world()
+    print(hello_world())
