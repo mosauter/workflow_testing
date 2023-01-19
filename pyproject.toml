@@ -33,9 +33,6 @@ jobs = 0
 max-line-length = 120
 disable = [
     "fixme",
-    "import-error",
-    "no-member",
-    "no-name-in-module",
     "useless-import-alias",
 ]
 
